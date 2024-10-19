@@ -20,7 +20,7 @@ Pronouns: she/her
 ![Flexbox](https://img.shields.io/badge/-Flexbox-FFF?style=flat-square&logo=css3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
-![Postico](https://img.shields.io/badge/Postico-Proficient-brightgreen)
+![Postico](https://img.shields.io/badge/-Postico-5B6E9D?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 
 
