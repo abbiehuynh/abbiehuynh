@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/user-attachments/assets/318bfc98-5fd9-493d-a87e-988c2e2ec577)
+![Github Banner](https://github.com/user-attachments/assets/0f02b703-cafa-4e87-9dd2-f4e8627d22c3)
 
 # ✨ Hello! I'm Abbie ✨ 
 Pronouns: she/her
