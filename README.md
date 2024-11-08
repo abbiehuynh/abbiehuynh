@@ -1,14 +1,14 @@
-# ✨ Hello! I'm Abbie ✨
+# ✨ Hello! I'm Abbie ✨ 
 Pronouns: she/her
 
 ## About Me 🐱
 - I am a Software Engineering Apprentice at Techtonica
-- I am currently working on [My Crochet Corner](https://github.com/abbiehuynh/my-crochet-corner)
-- I am looking to collaborate on open-source projects.
+- I am currently working on [My Crochet Corner](https://github.com/abbiehuynh/my-crochet-corner), a crochet project tracker for crochet enthusiasts!
+- Specializing in Full Stack Apps using the PERN stack, I am eager to learn all that tech has to offer!
 - Let's Connect! [LinkedIn](https://www.linkedin.com/in/abbie-huynh/) | [abbiehuynhh@gmail.com](mailto:abbiehuynhh@gmail.com)
 
 ## Technologies & Tools 🌱
-![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
@@ -23,9 +23,11 @@ Pronouns: she/her
 ![Postico](https://img.shields.io/badge/-Postico-5B6E9D?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 
-
+![Abbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbiehuynh&theme=tokyonight&show_icons=true)
 
 <!--
+
+gruvbox_light
 
 ## Featured Projects 🌟
 - [Cat Escape]( 
