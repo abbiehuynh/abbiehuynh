@@ -23,7 +23,7 @@ Pronouns: she/her
 ![Postico](https://img.shields.io/badge/-Postico-5B6E9D?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 
-![Abbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbiehuynh&theme=tokyonight&show_icons=true)
+![Abbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbiehuynh&theme=gotham&show_icons=true)
 
 <!--
 
